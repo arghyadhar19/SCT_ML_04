@@ -8,7 +8,7 @@ This project implements a **Convolutional Neural Network (CNN)** to recognize st
 
 ## 📂 Dataset
 
-**LeapGestRecog** from Kaggle:  
+**LeapGestRecog** from Kaggle:  https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 Each gesture class is organized in folders under user IDs (e.g., `01`, `02`, etc.).
 
 /leapGestRecog/
