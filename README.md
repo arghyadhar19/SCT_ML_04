@@ -49,4 +49,5 @@ Sequential([
     Dense(num_classes, activation='softmax')
 ])
 ```
+```bash
 pip install tensorflow opencv-python matplotlib numpy
